@@ -3,6 +3,7 @@
  */
 import React, { Component } from 'react';
 import {ViewPropTypes} from "deprecated-react-native-prop-types"
+import PropTypes from 'prop-types';
 
 import {
   Keyboard,
